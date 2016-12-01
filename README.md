@@ -3,5 +3,5 @@
 ## Clone
 ```
 $ cd basic-site
-$ git clone https://github.com/theroofav/html-template-portfolio.git
+$ git clone https://github.com/voroncv/html-template-portfolio.git
 ```
