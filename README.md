@@ -5,3 +5,4 @@
 $ cd basic-site
 $ git clone https://github.com/voroncv/html-template-portfolio.git
 ```
+### Open index.html in your browser
